@@ -6,4 +6,4 @@
 
 # navegación lista
 
-# estilo eliminado
+# repositorio regenerado
